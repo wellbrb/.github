@@ -11,10 +11,10 @@ Building software, exploring AI, and creating tools we'd actually use.
 
 ## Current Focus
 
-- AI & Machine Learning
-- Data Engineering
-- Backend Engineering
-- Open Source
+- 🤖 AI & Machine Learning
+- 📊 Data Engineering
+- ⚙️ Backend Engineering
+- 🌍 Open Source
 
 ## Stack
 
