@@ -26,4 +26,4 @@ Python • FastAPI • React • Spark • Kafka • Docker • PostgreSQL
 
 **Build. Break. Learn. Repeat.**
 
-Made with ☕, late nights, and curiosity. By BRB.
+Made with ☕, late nights, and curiosity — by BRB.
