@@ -8,7 +8,7 @@ Building software, exploring AI, and creating tools we'd actually use.
 
 - AI & Machine Learning
 - Data Engineering
-- Backend Systems
+- Backend Engineering
 - Open Source
 
 ### Stack
