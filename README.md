@@ -13,8 +13,7 @@ Building software, exploring AI, and creating tools we'd actually use.
 
 ### Stack
 
-Python • FastAPI • React • Spark • Kafka • Docker • PostgreSQL
-...and whatever gets the job done.
+Python • FastAPI • React • Spark • Kafka • Docker • PostgreSQL ... and whatever gets the job done.
 
 ---
 
