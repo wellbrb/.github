@@ -1,6 +1,6 @@
 # BRB
 
-> We'll be right back.
+> We'll be right back — with something cool.
 
 Building software, exploring AI, and creating tools we'd actually use.
 
